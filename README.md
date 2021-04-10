@@ -1,7 +1,7 @@
 # windows-TelAdminBot-x64
 windows-TelAdminBot x 64
 
-This "project" for windows x86, is not yet completely complete
+This "project" for windows x64, is not yet completely complete
 but will be completed soon; Stay tuned on new releases ...
 
 #
